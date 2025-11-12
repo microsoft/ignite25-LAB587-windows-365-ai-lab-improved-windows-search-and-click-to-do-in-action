@@ -23,6 +23,7 @@
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/steveth/EfxCMzXVRblMrMzXEKODT0cB0APNMDaKzQJP4x4OmVbqUA?e=AsXFV8) |  |
 | Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198058)|  |
 | Link to the user guide | [Lab Guide - TBD ](TBD) |  |
