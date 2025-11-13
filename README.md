@@ -20,12 +20,13 @@ You will also analyze the integration of Windows 365 for Agents with Copilot Stu
 1. Intune
 1. Windows App
 
-### 📚 Resources
+### 📚 Resources & Next Steps
 
 | Resources          | Links                             |
 |:-------------------|:----------------------------------|
 | Introduction Windows 365 for Agents  | https://learn.microsoft.com/en-us/windows-365/agents/introduction-windows-365-for-agents | 
 | AI-enabled Cloud PCs | https://learn.microsoft.com/en-us/windows-365/enterprise/ai-enabled-cloud-pcs | 
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) |
 
 ## Contributing
 
