@@ -11,7 +11,8 @@
 
 ### Session Description
 
-*Explore Windows 365 AI in this hands-on lab! Configure and experience features like Advanced Search and Click to Do on Cloud PCs. Learn prerequisites, enable AI-driven workflows, and boost productivity for IT admins and end users. Automate tasks with natural language and take smart, context-aware actions directly from your screen.*
+*Step into the future of productivity with Windows 365 AI. In this hands-on lab, you'll configure and experience three powerful AI-driven features: Semantic Search, Federated Search, and Click2Do. Learn how to enable these capabilities on Cloud PCs, understand their prerequisites, and explore how they enhance both IT admin workflows and end-user experiences.
+You will also analyze the integration of Windows 365 for Agents with Copilot Studio to identify opportunities for AI-driven automation and design and publish a custom Copilot experience that interacts with Windows 365.*
 
 ### 💻 Technologies Used
 
