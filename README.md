@@ -20,7 +20,7 @@ You will also analyze the integration of Windows 365 for Agents with Copilot Stu
 1. Intune
 1. Windows App
 
-### 📚 Resources and Next Steps
+### 📚 Resources
 
 | Resources          | Links                             |
 |:-------------------|:----------------------------------|
