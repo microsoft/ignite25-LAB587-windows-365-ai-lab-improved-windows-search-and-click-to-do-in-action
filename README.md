@@ -25,7 +25,7 @@ You will also analyze the integration of Windows 365 for Agents with Copilot Stu
 | Resources          | Links                             |
 |:-------------------|:----------------------------------|
 | Introduction Windows 365 for Agents  | (https://learn.microsoft.com/en-us/windows-365/agents/introduction-windows-365-for-agents) | 
-|  | | 
+| AI-eabledCloud PCs | (https://learn.microsoft.com/en-us/windows-365/enterprise/ai-enabled-cloud-pcs) | 
 
 ## Contributing
 
