@@ -15,18 +15,16 @@
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Windows 365 Enterprise 
+1. Intune
+1. Windows App
 
 ### 📚 Resources and Next Steps
 
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/steveth/EfxCMzXVRblMrMzXEKODT0cB0APNMDaKzQJP4x4OmVbqUA?e=AsXFV8) |  |
-| Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198058)|  |
-| Link to the user guide | [Lab Guide - TBD ](TBD) |  |
-
+| Resources          | Links                             |
+|:-------------------|:----------------------------------|
+| Introduction Windows 365 for Agents  | (https://learn.microsoft.com/en-us/windows-365/agents/introduction-windows-365-for-agents) | 
+|  | | 
 
 ## Contributing
 
