@@ -26,6 +26,7 @@ You will also analyze the integration of Windows 365 for Agents with Copilot Stu
 |:-------------------|:----------------------------------|
 | Introduction Windows 365 for Agents  | https://learn.microsoft.com/en-us/windows-365/agents/introduction-windows-365-for-agents | 
 | AI-enabled Cloud PCs | https://learn.microsoft.com/en-us/windows-365/enterprise/ai-enabled-cloud-pcs | 
+| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) |
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) |
 
 ## Contributing
